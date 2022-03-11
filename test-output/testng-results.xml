@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77538" started-at="2022-03-11T10:03:56Z" finished-at="2022-03-11T10:05:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77538" started-at="2022-03-11T10:03:56Z" finished-at="2022-03-11T10:05:14Z">
+      <class name="IBM.automation_1.retail_1">
+        <test-method status="PASS" signature="login()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="login" is-config="true" duration-ms="8231" started-at="2022-03-11T15:33:56Z" finished-at="2022-03-11T15:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="select_customer_name()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="select_customer_name" duration-ms="1696" started-at="2022-03-11T15:34:05Z" finished-at="2022-03-11T15:34:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_customer_name -->
+        <test-method status="PASS" signature="close()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="close" is-config="true" duration-ms="796" started-at="2022-03-11T15:34:06Z" finished-at="2022-03-11T15:34:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="login" is-config="true" duration-ms="7111" started-at="2022-03-11T15:34:07Z" finished-at="2022-03-11T15:34:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="select_mail_option()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="select_mail_option" duration-ms="2321" started-at="2022-03-11T15:34:14Z" finished-at="2022-03-11T15:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_mail_option -->
+        <test-method status="PASS" signature="close()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="close" is-config="true" duration-ms="961" started-at="2022-03-11T15:34:17Z" finished-at="2022-03-11T15:34:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="login" is-config="true" duration-ms="9365" started-at="2022-03-11T15:34:18Z" finished-at="2022-03-11T15:34:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="select_model()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="select_model" duration-ms="1858" started-at="2022-03-11T15:34:27Z" finished-at="2022-03-11T15:34:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_model -->
+        <test-method status="PASS" signature="close()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="close" is-config="true" duration-ms="648" started-at="2022-03-11T15:34:29Z" finished-at="2022-03-11T15:34:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="login" is-config="true" duration-ms="7939" started-at="2022-03-11T15:34:29Z" finished-at="2022-03-11T15:34:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="select_order_id()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="select_order_id" duration-ms="1754" started-at="2022-03-11T15:34:37Z" finished-at="2022-03-11T15:34:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_order_id -->
+        <test-method status="PASS" signature="close()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="close" is-config="true" duration-ms="634" started-at="2022-03-11T15:34:39Z" finished-at="2022-03-11T15:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="login" is-config="true" duration-ms="9347" started-at="2022-03-11T15:34:40Z" finished-at="2022-03-11T15:34:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="select_product()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="select_product" duration-ms="1172" started-at="2022-03-11T15:34:49Z" finished-at="2022-03-11T15:34:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_product -->
+        <test-method status="PASS" signature="close()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="close" is-config="true" duration-ms="634" started-at="2022-03-11T15:34:50Z" finished-at="2022-03-11T15:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="login" is-config="true" duration-ms="7608" started-at="2022-03-11T15:34:51Z" finished-at="2022-03-11T15:34:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="select_return_id()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="select_return_id" duration-ms="1168" started-at="2022-03-11T15:34:59Z" finished-at="2022-03-11T15:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_return_id -->
+        <test-method status="PASS" signature="close()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="close" is-config="true" duration-ms="642" started-at="2022-03-11T15:35:00Z" finished-at="2022-03-11T15:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="login" is-config="true" duration-ms="10489" started-at="2022-03-11T15:35:00Z" finished-at="2022-03-11T15:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="FAIL" signature="select_total()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="select_total" duration-ms="2477" started-at="2022-03-11T15:35:11Z" finished-at="2022-03-11T15:35:13Z">
+          <exception class="junit.framework.ComparisonFailure">
+            <message>
+              <![CDATA[expected:<Rs.85> but was:<>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[junit.framework.ComparisonFailure: expected:<Rs.85> but was:<>
+	at junit.framework.Assert.assertEquals(Assert.java:81)
+	at junit.framework.Assert.assertEquals(Assert.java:87)
+	at IBM.automation_1.retail_1.select_total(retail_1.java:81)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:663)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:849)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1157)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:771)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1200)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1125)
+	at org.testng.TestNG.run(TestNG.java:1033)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- junit.framework.ComparisonFailure -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_total -->
+        <test-method status="PASS" signature="close()[pri:0, instance:IBM.automation_1.retail_1@6cd8737]" name="close" is-config="true" duration-ms="659" started-at="2022-03-11T15:35:13Z" finished-at="2022-03-11T15:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- IBM.automation_1.retail_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
